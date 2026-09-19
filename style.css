@@ -14,7 +14,7 @@
     .cell.disabled{cursor:default;opacity:.9}
     .small{font-size:13px;color:var(--muted)}
 
-    .status{display:flex;justify-content:space-between;align-items:center;margin-top:10px}
+    .status{display:flex;justify-content:space-between;align-items:center;margin-top:20px}
     .score{display:flex;gap:12px}
     .score .p{background:rgba(255,255,255,0.02);padding:6px 10px;border-radius:8px}
 
