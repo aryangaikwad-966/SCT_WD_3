@@ -8,7 +8,7 @@
     .btn.active{border-color:var(--accent);color:var(--accent);}
     .controls{display:flex;gap:8px;align-items:center}
 
-    .board{width:360px;height:360px;margin:10px auto;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);gap:12px}
+    .board{width:360px;height:360px;margin:20px auto;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);gap:12px}
     .cell{background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);display:flex;align-items:center;justify-content:center;font-size:64px;border-radius:10px;cursor:pointer;user-select:none;transition:transform .12s ease,box-shadow .12s}
     .cell:active{transform:scale(.98)}
     .cell.disabled{cursor:default;opacity:.9}
