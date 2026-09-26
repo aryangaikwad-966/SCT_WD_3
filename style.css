@@ -11,7 +11,7 @@
     .board{width:360px;height:36px;margin:60px auto;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);gap:12px}
     .cell{background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);display:flex;align-items:center;justify-content:center;font-size:64px;border-radius:10px;cursor:pointer;user-select:none;transition:transform .12s ease,box-shadow .12s}
     .cell:active{transform:scale(.98)}
-    .cell.disabled{cursor:default;opacity:.9}
+    .cell.disabled{cursor:default;opacity:.09}
     .small{font-size:13px;color:var(--muted)}
 
     .status{display:flex;justify-content:space-between;align-items:center;margin-top:20px}
