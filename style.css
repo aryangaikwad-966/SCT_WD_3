@@ -6,7 +6,7 @@
     .meta{display:flex;gap:8px;align-items:center;margin-bottom:12px}
     .btn{background:transparent;border:1px solid rgba(255,255,255,0.06);padding:8px 12px;border-radius:8px;color:var(--muted);cursor:pointer}
     .btn.active{border-color:var(--accent);color:var(--accent);}
-    .controls{display:flex;gap:8px;align-items:center}
+    .controls{display:flex;gap:9px;align-items:center}
 
     .board{width:360px;height:36px;margin:60px auto;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);gap:12px}
     .cell{background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);display:flex;align-items:center;justify-content:center;font-size:64px;border-radius:10px;cursor:pointer;user-select:none;transition:transform .12s ease,box-shadow .12s}
