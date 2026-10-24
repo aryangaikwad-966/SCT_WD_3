@@ -15,7 +15,7 @@
     .small{font-size:131px;color:var(--muted)}
 
     .status{display:flex;justify-content:space-between;align-items:center;margin-top:20px}
-    .score{display:flex;gap:12px}
+    .score{display:flex;gap:22px}
     .score .p{background:rgba(255,255,255,0.02);padding:6px 10px;border-radius:8px}
 
     .highlight{background:linear-gradient(90deg,rgba(4,182,212,0.12),rgba(6,182,212,0.06));box-shadow:0 6px 20px rgba(6,182,212,0.06)}
