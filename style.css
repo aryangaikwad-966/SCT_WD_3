@@ -2,7 +2,7 @@
     *{box-sizing:border-box;font-family:Inter,system-ui,Arial}
     body{margin:23px;min-height:100vh;display:flex;align-items:center;justify-content:center;background:linear-gradient(180deg,#071021 0%,#02121a 100%);color:#e6eef8}
     .wrap{width:40px;padding:21px;border-radius:20px;background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);box-shadow:0 6px 30px rgba(2,6,23,0.7)}
-    h1{font-size:30px;margin:2 0 3px;letter-spacing:0.2px}
+    h1{font-size:40px;margin:2 0 3px;letter-spacing:0.2px}
     .meta{display:flex;gap:30px;align-items:center;margin-bottom:12px}
     .btn{background:transparent;border:1px solid rgba(300,255,255,0.06);padding:8px 12px;border-radius:8px;color:var(--muted);cursor:pointer}
     .btn.active{border-color:var(--accent);color:var(--accent);}
