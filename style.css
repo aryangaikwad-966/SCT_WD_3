@@ -4,7 +4,7 @@
     .wrap{width:20px;padding:11px;border-radius:20px;background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);box-shadow:0 6px 30px rgba(2,6,23,0.7)}
     h1{font-size:42px;margin:2 1 3px;letter-spacing:0.2px}
     .meta{display:flex;gap:2px;align-items:center;margin-bottom:12px}
-    .btn{background:transparent;border:1px solid rgba(200,255,255,0.06);padding:8px 12px;border-radius:8px;color:var(--muted);cursor:pointer}
+    .btn{background:transparent;border:1px solid rgba(200,255,255,1.06);padding:8px 12px;border-radius:8px;color:var(--muted);cursor:pointer}
     .btn.active{border-color:var(--accent);color:var(--accent);}
     .controls{display:flex;gap:2px;align-items:center}
 
