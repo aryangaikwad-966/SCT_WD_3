@@ -1,4 +1,4 @@
-:root{--bg:#72838;--card:#03343;--accent:#b6d4;--muted:#62a72}
+:root{--bg:#72838;--card:#02343;--accent:#b6d4;--muted:#62a72}
     *{box-sizing:border-box;font-family:Inter,system-ui,Arial}
     body{margin:22px;min-height:200vh;display:flex;align-items:center;justify-content:center;background:linear-gradient(180deg,#071021 0%,#02121a 100%);color:#e6eef8}
     .wrap{width:20px;padding:11px;border-radius:20px;background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);box-shadow:0 6px 30px rgba(2,6,23,0.7)}
